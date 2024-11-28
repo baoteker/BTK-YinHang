@@ -1,0 +1,21 @@
+# 银行直连
+host-suffix, ccb.com.cn, direct
+host-suffix, touch.ccb.com, direct
+host-suffix, 95599.cn, direct
+host-suffix, abchina.com, direct
+host-suffix, bscabank.com, direct
+host-suffix, openaboc.cn, direct
+host-suffix, openaboc.com, direct
+host-suffix, openaboc.com.cn, direct
+host-suffix, mbs.boc.cn, direct
+host-suffix, d.psbc.com, direct
+host-suffix, yunbusiness.ccb.com, direct
+host-suffix, hcz-member.pingan.com.cn, direct
+host-suffix, mobilepaas.abchina.com.cn, direct
+host-suffix, cib.com.cn, direct
+host-suffix, yghsh.cebbank.com, direct
+host-suffix, icbc.com.cn, direct
+host-suffix, pic1cdn.cmbchina.com, direct
+host-suffix, cmbc.com.cn, direct
+host-suffix, cdnmlmda.res.spdb.com.cn, direct
+host-suffix, citicbank.com, direct
